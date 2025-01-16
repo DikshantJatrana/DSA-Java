@@ -13,6 +13,7 @@ public class Switch {
             break;
             default:System.out.println("Invalid button");
         }
+        sc.close();
     }
     
 }

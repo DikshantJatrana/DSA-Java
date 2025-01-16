@@ -11,5 +11,6 @@ public class Function {
         int a = sc.nextInt();
         int b = sc.nextInt();
         System.out.println(sum(a, b));
+        sc.close();
     }
 }

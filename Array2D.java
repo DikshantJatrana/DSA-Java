@@ -11,7 +11,9 @@ public class Array2D {
         for(int i=0;i<row;i++){
             for(int j =0;j<col;j++){
                 marks[i][j] = sc.nextInt();
+                sc.close();
             }
+            
         }
 
         for(int i=0;i<row;i++){

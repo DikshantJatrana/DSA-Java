@@ -10,6 +10,7 @@ public class Array {
 
         for(int i=0;i<size;i++){
             marks[i]=sc.nextInt();
+            sc.close();
         }
         for(int i=0;i<size;i++){
             System.out.println(marks[i]);
