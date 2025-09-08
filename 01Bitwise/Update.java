@@ -3,7 +3,7 @@ public class Update {
         int num = 5;
         int pos = 3;
         int Bitmask = 1 << pos;
-        int newNum = 0;
+        int newNum;
 
         if((num & Bitmask) == 0){
             newNum = num | Bitmask;
