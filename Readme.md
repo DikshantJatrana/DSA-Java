@@ -1,4 +1,4 @@
-#Bit Manupilation
+# Bit Manupilation
 
 ## problem 1: Set Bit ✅
 
@@ -8,8 +8,14 @@
 
 ## problem 4: Update Bit ✅
 
-#Search
+# Search
 
 ## Normal Search
 
 ## Binary Search
+
+# Sorting
+
+## Bubble Sorting
+
+## 
