@@ -1,12 +1,12 @@
 # Bit Manupilation
 
-## problem 1: Set Bit ✅
+## problem 1: Set Bit
 
-## problem 2: Get Bit ✅
+## problem 2: Get Bit
 
-## problem 3: Clear Bit ✅
+## problem 3: Clear Bit
 
-## problem 4: Update Bit ✅
+## problem 4: Update Bit
 
 # Search
 
@@ -16,6 +16,8 @@
 
 # Sorting
 
-## Bubble Sorting
+## Bubble Sort
 
-## 
+## Selection Sort
+
+## Insertion Sort
